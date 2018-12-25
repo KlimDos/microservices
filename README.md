@@ -1,2 +1,2 @@
 # microservices
-second part of DevOps course 
+the second part of DevOps course 
